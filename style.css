@@ -2,3 +2,19 @@
     --blue: #3078BE;
     --purple: #998FC2;
 }
+
+body {
+    font-family: Arial, "Malgun Gothic", sans-serif;
+    background-color: #3078BE;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: cadetblue;
+    color: burlywood;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
